@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/academovie-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/academovie-deploy/static/js/main.63beedc0.chunk.js",
+    "main.js.map": "/academovie-deploy/static/js/main.63beedc0.chunk.js.map",
+    "runtime-main.js": "/academovie-deploy/static/js/runtime-main.3ea77e17.js",
+    "runtime-main.js.map": "/academovie-deploy/static/js/runtime-main.3ea77e17.js.map",
+    "static/js/2.18a7ef49.chunk.js": "/academovie-deploy/static/js/2.18a7ef49.chunk.js",
+    "static/js/2.18a7ef49.chunk.js.map": "/academovie-deploy/static/js/2.18a7ef49.chunk.js.map",
+    "index.html": "/academovie-deploy/index.html",
+    "precache-manifest.3230c992ac06586540ed14a22df65473.js": "/academovie-deploy/precache-manifest.3230c992ac06586540ed14a22df65473.js",
+    "service-worker.js": "/academovie-deploy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/academovie-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.18a7ef49.chunk.js.LICENSE.txt": "/academovie-deploy/static/js/2.18a7ef49.chunk.js.LICENSE.txt",
+    "static/media/filmRoll.png": "/academovie-deploy/static/media/filmRoll.e7bbefb2.png",
+    "static/media/filmRollOpaque.png": "/academovie-deploy/static/media/filmRollOpaque.97431553.png",
+    "static/media/movieLogo.png": "/academovie-deploy/static/media/movieLogo.6e0c9aae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea77e17.js",
+    "static/js/2.18a7ef49.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.63beedc0.chunk.js"
+  ]
+}
